@@ -16,6 +16,7 @@ If your changes are significant, open an issue first to discuss plans
    
  If you used the web editor, GitHub will create a fork and open a PR for you automatically
 
+
 5. Fill out the PR template to help reviewers
 
 If you have write access
