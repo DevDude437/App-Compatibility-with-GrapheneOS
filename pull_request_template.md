@@ -22,4 +22,5 @@ Checklist for contributors
 [ ] I followed the app entry format defined in CONTRIBUTING.md
 
 Notes for reviewers/additional context
+
 Add any important notes, caveats, or manual steps reviewers should be aware of here
