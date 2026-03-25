@@ -12,7 +12,9 @@ Closes # (if applicable) or N/A
 Type of change
 
 [ ] New entry (addition)
+
 [ ] Fix/update to existing entry
+
 [ ] Other (explain)
  
 Checklist for contributors
