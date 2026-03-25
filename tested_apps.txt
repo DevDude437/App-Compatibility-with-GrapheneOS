@@ -20,3 +20,33 @@ https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
 
 Trebel Music
 https://play.google.com/store/apps/details?id=com.mmm.trebelmusic
+
+Duolingo
+https://play.google.com/store/apps/details?id=com.duolingo
+
+MEATER Wireless Meat Thermometers
+https://play.google.com/store/apps/details?id=com.apptionlabs.meater_app
+
+Traeger Grills
+https://play.google.com/store/apps/details?id=com.traegergrills.app
+
+AIMP Music Player
+https://play.google.com/store/apps/details?id=com.aimp.player
+
+Proton Mail (Notifications require Play services or You Have Mail app)
+https://play.google.com/store/apps/details?id=ch.protonmail.android
+
+Proton Drive
+https://play.google.com/store/apps/details?id=me.proton.android.drive
+
+Proton Authenticator
+https://play.google.com/store/apps/details?id=proton.android.authenticator
+
+Proton Calendar
+https://play.google.com/store/apps/details?id=me.proton.android.calendar
+
+Proton VPN
+https://play.google.com/store/apps/details?id=ch.protonvpn.android
+
+Proton Pass.https://play.google.com/store/apps/details?id=proton.android.pass
+
