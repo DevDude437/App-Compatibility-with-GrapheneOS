@@ -19,7 +19,9 @@ Type of change
  
 Checklist for contributors
 
-[ ] I followed the app entry format defined in CONTRIBUTING.md
+[✅] I followed the app entry format defined in CONTRIBUTING.md
+
+[✅] This app submitted fulfills the App Submission Requirements section found in the CONTRIBUTING.md file
 
 Notes for reviewers/additional context
 
