@@ -1,7 +1,7 @@
 # Proton Calendar
 Calendar app
 
-Notifications; Work without Play Devices
+Notifications; Work without Play Services
 
 Tested Version; v2.31.0
 
