@@ -1,4 +1,4 @@
-#Etsy
+# Etsy
 Shopping app
 
 Notifications; Not tested
