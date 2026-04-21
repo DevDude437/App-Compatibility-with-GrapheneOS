@@ -1,10 +1,8 @@
 # Bring A Trailer Auctions
-Automotive Auctions around the world. 
-
-Notifications; Do not work without Play Services
+Auction app for all sorts of vehicles
 
 Tested Version; v1.3.10-0
 
 Play Store Link; https://play.google.com/store/apps/details?id=com.bringatrailer.android
 
-Notes; App functions properly but notifications do not work
+Notes; All app functions work properly, but notifications do not work, although when you save an auction you can get email alerts.
