@@ -8,7 +8,7 @@ This document explains the preferred workflow for adding apps to this list.
 
 ## Before you begin
 
-**IMPORTANT:** If you only want one app added to the list, just open an issue with the title `Add App--{App Name}`.
+**IMPORTANT:** If you only want one app added to the list, just open an issue with the title of the app.
 
 Creating a Pull Request is better if you want to contribute more than one app to the list at a time.  
 If your changes are significant, open an issue first to discuss plans.
