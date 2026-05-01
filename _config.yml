@@ -1,0 +1,6 @@
+title: App Compatibility without Play Services
+description: A collection of apps tested for Android which works without Play Services
+theme: jekyll-theme-leap-day
+
+collections:
+  - apps
