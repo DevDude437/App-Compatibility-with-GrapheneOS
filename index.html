@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<h1>Apps</h1>
+
+<div class="apps">
+    {% for app in site.apps %}
+        <div class="app">
+            <div class="title">
+                <h2>{{ app.name }}</h2>
+
+                <span class="badge version" title="The version the app is tested for">
+                    <code>v{{ app.version }}</code>
+                </span>
+            </div>
+
+            <p>
+                {{ app.description }}
+            </p>
+
+            <div>
+                <span><b>NOTE:</b> <i>{{ app.notes }}</i></span>
+            </div>
+
+            <div class="footer">
+                <a class="play-store-link" href="{{ app.link }}">Play Store</a>
+            </div>
+        </div>
+    {% endfor %}
+</div>
