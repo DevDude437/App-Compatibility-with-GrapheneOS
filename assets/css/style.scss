@@ -1,0 +1,66 @@
+---
+---
+ 
+@import "{{ site.theme }}";
+
+:root {
+    --font: sans-serif;
+}
+
+header {
+    background: black !important;
+    border: none;
+}
+
+#banner {
+    display: none;
+}
+
+* {
+    font-family: var(--font) !important;
+}
+
+body {
+    background: #f0f0f0;
+}
+
+.apps {
+    display: flex;
+    flex-direction: column;
+    gap: 12px
+}
+
+.app {
+    box-shadow: 0 0 2px rgba(0, 0, 0, .5);
+
+    padding: .8rem;
+    border-radius: 8px;
+
+    h2, h3 {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .title {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    // TODO: remove this
+    .badge.version {}
+
+    .footer {
+        margin-top: 24px;
+
+        a {
+            padding: 8px;
+            background-color: #2e2e2e;
+            color: white;
+            font-size: 1.2rem;
+            border-radius: 8px;
+            font-weight: 100;
+        }
+    }
+}

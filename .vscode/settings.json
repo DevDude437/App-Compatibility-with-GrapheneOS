@@ -1,0 +1,5 @@
+// This is to appease VSCode's stupid linter from complaining about
+// front matter usage in SCSS files.
+{
+    "scss.validate": false,
+}
