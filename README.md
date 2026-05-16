@@ -3,8 +3,6 @@
 A website for apps tested that work without Google Play Services on degoogled devices, including GrapheneOS.  
 
 If you've never heard of GrapheneOS, I recommend you [check out their website](https://grapheneos.org).
-# Website 
-[App Compatibility without Google Play Services](https://devdude437.github.io/App-Compatibility-without-Google-Play-Services/)
 
 For banking apps compatibility, check out the [PrivSec banking app compatibility report](https://github.com/PrivSec-dev/banking-apps-compat-report).
 
